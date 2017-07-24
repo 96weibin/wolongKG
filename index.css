@@ -130,7 +130,7 @@ body{
     margin: 30px 20px;
     float: left;
 }
-.wrapper .title{
+.title{
     font-size: 20px;
     font-weight: bold;
     color: #5b5b5b;
@@ -185,4 +185,32 @@ body{
     background: url(img/grass.jpg);
     width: 259px;
     height: 104px;
+}
+.wrapper2{
+    width:100%;
+    height: 330px;
+    /* background: cyan; */
+    overflow:hidden;
+}
+.wrapper2 .content{
+    margin: 30px 20px;
+}
+.wrapper2 #box{
+    width: 210px;
+    height: 190px;
+    /* background: cyan; */
+    margin: 30px 14px;
+    float: left;
+}
+.wrapper2 .box1{
+    background: url(img/box1.jpg);
+}
+.wrapper2 .box2{
+    background: url(img/box2.jpg);
+}
+.wrapper2 .box3{
+    background: url(img/box3.jpg);
+}
+.wrapper2 .box4{
+    background: url(img/box4.jpg);
 }
