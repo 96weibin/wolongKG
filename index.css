@@ -5,6 +5,7 @@
     text-decoration: none;
 }
 body{
+    margin: 0 auto;
     width: 999px;
 }
 .top{
